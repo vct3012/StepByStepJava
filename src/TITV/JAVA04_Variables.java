@@ -5,5 +5,14 @@ public class JAVA04_Variables {
         String thongBao = "Hello";
         String hoVaTen;
         hoVaTen = "Vong Chu Tan";
+
+        int tuoi;
+        tuoi = 21;
+
+//        long chutan;
+//        chutan = System.currentTimeMillis();
+//        System.out.println(chutan);
+
+        System.out.println(hoVaTen + " " + tuoi);
     }
 }
