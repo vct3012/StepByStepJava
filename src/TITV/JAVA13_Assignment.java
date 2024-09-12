@@ -12,9 +12,14 @@ public class JAVA13_Assignment {
         //Các phép gán
         a= NTBP.nextFloat();
         System.out.println("a: " + a );
-        a+=3; // a = a + 3
 
+        a+=3; // a = a + 3
         System.out.println("a: "+a);
 
+        a-=2;
+        System.out.println("a: "+a);
+
+        a*=3;
+        System.out.println("a: "+a);
     }
 }
