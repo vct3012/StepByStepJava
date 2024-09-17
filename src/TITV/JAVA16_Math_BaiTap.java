@@ -10,10 +10,10 @@ public class JAVA16_Math_BaiTap {
         r = sc.nextDouble();
 
         chuVi = r * 2 * Math.PI;
-        System.out.println("chu vi hinh tron la " + Math.round(chuVi));
+        System.out.println("chu vi hinh tron la " + Math.round(chuVi*100.0)/100.0);
 
         dienTich = Math.PI * Math.pow(r, 2);
-        System.out.println("dien tich hinh tron la " + Math.round(dienTich));
+        System.out.println("dien tich hinh tron la " + Math.round(dienTich*100.0)/100.0);
 
     }
 }
