@@ -2,7 +2,7 @@ package TITV;
 
 import java.util.Scanner;
 
-public class JAVA16_Math_BaiTap {
+public class JAVA16_Math_Practice {
     public static void main(String[] args) {
         double r, dienTich, chuVi;
         Scanner sc = new Scanner(System.in);
