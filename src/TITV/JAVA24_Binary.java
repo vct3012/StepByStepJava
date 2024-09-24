@@ -8,7 +8,7 @@ public class JAVA24_Binary {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap vao so nguyen n>0: ");
         n = scanner.nextInt();
-        String nhiPhan = "abc";
+        String nhiPhan = "";
             while (n > 0){
                 nhiPhan = (n%2) + nhiPhan; // n = 5 , 5%2 = 2 du 1 , "1abc "
                 n = n/2;
