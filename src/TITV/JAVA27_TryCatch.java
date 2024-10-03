@@ -8,7 +8,7 @@ public class JAVA27_TryCatch {
         try {
             System.out.println("Nhap vao so nguyen n: ");
             n = sc.nextInt();
-        } catch (Exception e) {
+        } catch (Exception abc) {
             System.out.println("Nhập dữ liệu không đúng");
         } finally {
             System.out.println("Finally!");
