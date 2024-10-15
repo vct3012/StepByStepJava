@@ -1,4 +1,4 @@
-package TITV;
+package TITV.Part3_ConditionStatement_Loop_Array;
 
 import java.util.Scanner;
 

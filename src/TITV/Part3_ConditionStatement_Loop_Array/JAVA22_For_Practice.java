@@ -1,4 +1,4 @@
-package TITV;
+package TITV.Part3_ConditionStatement_Loop_Array;
 
 public class JAVA22_For_Practice {
     public static void main(String[] args) {

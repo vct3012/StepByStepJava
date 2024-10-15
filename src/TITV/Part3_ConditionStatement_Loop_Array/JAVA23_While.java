@@ -1,6 +1,4 @@
-package TITV;
-
-import java.util.Scanner;
+package TITV.Part3_ConditionStatement_Loop_Array;
 
 public class JAVA23_While {
     public static void main(String[] args) {
