@@ -1,4 +1,4 @@
-package TITV;
+package TITV.Part1_Introduction;
 
 public class JAVA05_Types {
     public static void main(String[] args) {

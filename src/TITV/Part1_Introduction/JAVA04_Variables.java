@@ -1,4 +1,4 @@
-package TITV;
+package TITV.Part1_Introduction;
 
 public class JAVA04_Variables {
     public static void main (String[] args) {
